@@ -80,6 +80,8 @@ export const HeroRightContainer = styled.div`
   order: 2;
   justify-content: end;
   gap: 12px;
+  object-fit: cover;
+  object-position: center;
   @media (max-width: 960px) {
     order: 1;
     justify-content: center;
@@ -100,7 +102,7 @@ export const Img = styled.img`
   max-height: 500px;
   border-radius: 50%;
   border: 2px solid ${({ theme }) => theme.primary};
-
+  
   @media (max-width: 768px) {
     max-width: 500px;
     max-height: 500px;

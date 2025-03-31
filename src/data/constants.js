@@ -8,7 +8,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "A highly motivated and adaptable Software Developer with a diverse skill set in software, website, and mobile application development. Skilled in both frontend and backend technologies, with experience building secure, scalable, and user-friendly solutions. Strong background in troubleshooting, debugging, and performance optimization. Dedicated to delivering high-quality software and eager to apply problem-solving skills and innovative thinking to impactful projects. Committed to continuous personal and professional growth.",
+    "Passionate and adaptable Software Developer with a versatile skill set in web, mobile, and software development. Proficient in both frontend and backend technologies, with hands-on experience building secure, scalable, and user-friendly solutions. Strong in debugging, troubleshooting, and performance optimization. Committed to delivering high-quality software and continuously growing both personally and professionally.",
   github: "https://github.com/akashtripathiiiii",
   resume: "https://drive.google.com/file/d/1KjQxG089lC3wVx04q-65xDIPr6NE_oFj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/akashtripathiiiii",
