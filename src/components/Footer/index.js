@@ -25,11 +25,11 @@ const FooterWrapper = styled.footer`
   color: ${({ theme }) => theme.text_primary};
 `;
 
-// const Logo = styled.h1`
-//   font-weight: 600;
-//   font-size: 20px;
-//   color: ${({ theme }) => theme.primary};
-// `;
+const Logo = styled.h1`
+  font-weight: 600;
+  font-size: 20px;
+  color: ${({ theme }) => theme.primary};
+`;
 
 const Nav = styled.nav`
   width: 100%;
@@ -95,7 +95,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Akash Tripathi. All rights reserved.
+          Copyright &#64; 2025 Akash Tripathi. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
